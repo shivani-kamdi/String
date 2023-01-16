@@ -4,7 +4,7 @@ public class SplitProg {
 
 	
 	public static void main(String[] args) {
-		
+		// edited with gitbash
 		String sentence = "I am an automation engineer who loves to work on Selenium with java";
 		String sentenceArray[] = sentence.split(" ");
 		
